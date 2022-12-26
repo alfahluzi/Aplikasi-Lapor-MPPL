@@ -1,6 +1,6 @@
 # Aplikasi-Lapor-MPPL
 
-# Dewan Perusahaan
+## Dewan Perusahaan
 Direktur, PM, Scrum Master : Aldi Fahluzi Muharam
 Business Analyst : Anne Rayana Jasmin
 UI/UX Researcher & Designer : Adryan Putra Pratama
@@ -8,6 +8,15 @@ Ex-Direktur : Ahmad Suhaemi
 
 ## Projek Detail
 **Pengadaan aplikasi pengaduan masyarakat berbasis peta digital** yang diselenggarakan oleh **Dinas Komunikasi, Informatika, dan Kehumasan**
+
+# Detail Aplikasi
+....... adalah sebuah aplikasi pengaduan masyarakat berbasis peta dimana setiap aduannya terdapat informasi lokasi yang terkait dan tervisualisasikan dalam bentuk peta digital pada aplikasi. Aplikasi ini dirancang untuk memudahkan masyarakat mengirim laporan, aduan, ataupun keluhan terkait fasilitas publik ataupun suatu kejadian yang menyangkut ketertiban masyarakat. Laporan yang dibuat oleh masyarakat langsung diarahkan kepada instansi pemerintahan maupun instansi swasta yang terkait.
+
+## Fitur
+  - Berbasis Peta
+  - Realtime status
+  - Rating dan pencapaian masyarakat dan instansi
+  - Vote laporan untuk mendukung dan menghighlight laporan yang sudah ada
 
 # Proses Produksi
 ## Sprint 1
