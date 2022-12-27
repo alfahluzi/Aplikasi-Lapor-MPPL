@@ -1,4 +1,4 @@
-# Aplikasi-Lapor-MPPL
+# Aplikasi Complaintify
 
 ## Dewan Perusahaan
   - Direktur, PM, Scrum Master : Aldi Fahluzi Muharam
@@ -10,7 +10,7 @@
 **Pengadaan aplikasi pengaduan masyarakat berbasis peta digital** yang diselenggarakan oleh **Dinas Komunikasi, Informatika, dan Kehumasan**
 
 # Detail Aplikasi
-....... adalah sebuah aplikasi pengaduan masyarakat berbasis peta dimana setiap aduannya terdapat informasi lokasi yang terkait dan tervisualisasikan dalam bentuk peta digital pada aplikasi. Aplikasi ini dirancang untuk memudahkan masyarakat mengirim laporan, aduan, ataupun keluhan terkait fasilitas publik ataupun suatu kejadian yang menyangkut ketertiban masyarakat. Laporan yang dibuat oleh masyarakat langsung diarahkan kepada instansi pemerintahan maupun instansi swasta yang terkait.
+**Complaintify** adalah sebuah aplikasi pengaduan masyarakat berbasis peta dimana setiap aduannya terdapat informasi lokasi yang terkait dan tervisualisasikan dalam bentuk peta digital pada aplikasi. Aplikasi ini dirancang untuk memudahkan masyarakat mengirim laporan, aduan, ataupun keluhan terkait fasilitas publik ataupun suatu kejadian yang menyangkut ketertiban masyarakat. Laporan yang dibuat oleh masyarakat langsung diarahkan kepada instansi pemerintahan maupun instansi swasta yang terkait.
 
 ## Fitur
   - Berbasis Peta
