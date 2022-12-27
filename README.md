@@ -17,7 +17,13 @@
   - Realtime status
   - Rating dan pencapaian masyarakat dan instansi
   - Vote laporan untuk mendukung dan menghighlight laporan yang sudah ada
-
+## Referensi
+  - asdasd
+  - asdad
+  - asdasdasda
+  - asdasd
+  - asdasd
+  - asdasdasd
 # Proses Produksi
 ## Sprint 1
 UseCase : 
@@ -39,7 +45,7 @@ UTS
 ## Sprint 5
 Imporvisasi UI
 ## Sprint 6
-Gamification?:
+Gamification:
   - Masyarakat dapat membuat story pada laporan
   - Fitur Badge Achivement untuk Masyarakat
 ## Sprint 7
