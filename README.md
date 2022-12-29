@@ -1,4 +1,4 @@
-# Aplikasi Complaintify
+# Aplikasi LaporAja
 
 ## Dewan Perusahaan
   - Direktur, PM, Scrum Master : Aldi Fahluzi Muharam
@@ -10,7 +10,7 @@
 **Pengadaan aplikasi pengaduan masyarakat berbasis peta digital** yang diselenggarakan oleh **Dinas Komunikasi, Informatika, dan Kehumasan**
 
 # Detail Aplikasi
-**Complaintify** adalah sebuah aplikasi pengaduan masyarakat berbasis peta dimana setiap aduannya terdapat informasi lokasi yang terkait dan tervisualisasikan dalam bentuk peta digital pada aplikasi. Aplikasi ini dirancang untuk memudahkan masyarakat mengirim laporan, aduan, ataupun keluhan terkait fasilitas publik ataupun suatu kejadian yang menyangkut ketertiban masyarakat. Laporan yang dibuat oleh masyarakat langsung diarahkan kepada instansi pemerintahan maupun instansi swasta yang terkait.
+**LaporAja** adalah sebuah aplikasi pengaduan masyarakat berbasis peta dimana setiap aduannya terdapat informasi lokasi yang terkait dan tervisualisasikan dalam bentuk peta digital pada aplikasi. Aplikasi ini dirancang untuk memudahkan masyarakat mengirim laporan, aduan, ataupun keluhan terkait fasilitas publik ataupun suatu kejadian yang menyangkut ketertiban masyarakat. Laporan yang dibuat oleh masyarakat langsung diarahkan kepada instansi pemerintahan maupun instansi swasta yang terkait.
 
 ## Fitur
   - Berbasis Peta
@@ -22,8 +22,12 @@
   - asdad
   - asdasdasda
   - asdasd
-  - asdasd
-  - asdasdasd
+###Referensi Design :
+  - https://pin.it/5SWtgo8
+  - https://pin.it/mq8ud3K
+  - https://pin.it/7ilU2nu
+  - https://dribbble.com/shots/19727900-Bloggr-Admin-panel-interface-for-bloggers
+  - https://dribbble.com/shots/16055888-Project-Management-Dashboard-Design
 # Proses Produksi
 ## Sprint 1
 UseCase : 
