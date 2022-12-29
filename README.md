@@ -72,9 +72,9 @@ UAS
  - Gamification
 ## Usecase Prioritas
 ![usecase](https://user-images.githubusercontent.com/83355111/209907248-02d58d42-e472-4679-b671-c30e198be722.PNG)
-## Gantt Cchart
+## Gantt Chart
 ![gant chart](https://user-images.githubusercontent.com/83355111/209907258-788faf54-a3de-4fca-9b7f-ab3428520ee0.PNG)
-## Design UI Aplikasi LaporAja
-https://www.figma.com/file/0EsqnaObkUL1mUaC6JMlYs/Pengaduan?node-id=0%3A1&t=58IAZFreESiVqmPJ-0
-
+## Link
+- [Design UI Figma](https://www.figma.com/file/0EsqnaObkUL1mUaC6JMlYs/Pengaduan?node-id=0%3A1&t=58IAZFreESiVqmPJ-0) 
+- [Project Notion](https://www.notion.so/Smartprey-Information-e5d6eff7896b479f851ba2f601a982e9)
 
