@@ -19,10 +19,6 @@
   - Vote laporan untuk mendukung dan menghighlight laporan yang sudah ada
 ## Referensi
   - <div class="csl-entry"><i>REPOSITORY-MUHAMAD RIZAL YULIANTO-290738-D3</i>. (n.d.).</div>
-  - asdad
-  - asdasdasda
-  - asdasd
-###Referensi Design :
   - https://pin.it/5SWtgo8
   - https://pin.it/mq8ud3K
   - https://pin.it/7ilU2nu
