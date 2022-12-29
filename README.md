@@ -27,6 +27,8 @@
   - https://pin.it/7ilU2nu
   - https://dribbble.com/shots/19727900-Bloggr-Admin-panel-interface-for-bloggers
   - https://dribbble.com/shots/16055888-Project-Management-Dashboard-Design
+## Riset
+  - Website LAPOR https://www.lapor.go.id/
 ## Tools
   - Laptop
   - Notion
