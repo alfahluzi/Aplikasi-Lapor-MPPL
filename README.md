@@ -1,6 +1,7 @@
 # Aplikasi LaporAja
 
 ## Dewan Perusahaan
+<img src="https://user-images.githubusercontent.com/83355111/209906636-d012ac1f-1631-4082-bcee-89301d8b799d.png"  width="300"> |
   - Direktur, PM, Scrum Master : Aldi Fahluzi Muharam
   - Business Analyst : Anne Rayana Jasmin
   - UI/UX Researcher & Designer : Adryan Putra Pratama
@@ -24,6 +25,12 @@
   - https://pin.it/7ilU2nu
   - https://dribbble.com/shots/19727900-Bloggr-Admin-panel-interface-for-bloggers
   - https://dribbble.com/shots/16055888-Project-Management-Dashboard-Design
+## Tools
+  - Laptop
+  - Notion
+  - Figma
+  - GitHub
+  - Microsoft Office
 # Proses Produksi
 ## Sprint 1
 UseCase : 
@@ -43,10 +50,29 @@ UseCase
 ## Sprint 4
 UTS
 ## Sprint 5
-Imporvisasi UI
+Improvisasi UI
 ## Sprint 6
 Gamification:
   - Masyarakat dapat membuat story pada laporan
   - Fitur Badge Achivement untuk Masyarakat
 ## Sprint 7
+Improvisasi dan Finalisasi UI
 ## Sprint 8
+UAS
+## Sprint Review
+ - Fitur memilih kategori pengaduan
+ - Fitur tombol vote laporan
+ - Penyaluran laporan dilakukan ke instansi swasta
+ - Menentukan siapa yang berhak menyelesaikan status laporan
+ - Halaman command center dan instansi diberi statistic 
+ - Fitur filter pencarian di list complaints
+ - Warna indikator keterangan status diberi hover
+ - Gamification
+## Usecase Prioritas
+![usecase](https://user-images.githubusercontent.com/83355111/209907248-02d58d42-e472-4679-b671-c30e198be722.PNG)
+## Gantt Cchart
+![gant chart](https://user-images.githubusercontent.com/83355111/209907258-788faf54-a3de-4fca-9b7f-ab3428520ee0.PNG)
+## Design UI Aplikasi LaporAja
+https://www.figma.com/file/0EsqnaObkUL1mUaC6JMlYs/Pengaduan?node-id=0%3A1&t=58IAZFreESiVqmPJ-0
+
+
