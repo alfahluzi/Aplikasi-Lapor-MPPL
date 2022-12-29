@@ -18,7 +18,7 @@
   - Rating dan pencapaian masyarakat dan instansi
   - Vote laporan untuk mendukung dan menghighlight laporan yang sudah ada
 ## Referensi
-  - asdasd
+  - <div class="csl-entry"><i>REPOSITORY-MUHAMAD RIZAL YULIANTO-290738-D3</i>. (n.d.).</div>
   - asdad
   - asdasdasda
   - asdasd
